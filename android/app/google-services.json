@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540238239930",
+    "project_id": "lab6auth-13234",
+    "storage_bucket": "lab6auth-13234.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540238239930:android:b4f3b00d2dad7158fd0a83",
+        "android_client_info": {
+          "package_name": "lab.six.herasymenko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4_4y14wj1cpYdRxy2ByaxM1CyNwnO-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
